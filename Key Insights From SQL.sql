@@ -20,7 +20,7 @@ FROM upi
 ORDER BY customer_transactions_volume DESC
 LIMIT 10;
 /* This query returns the top 10 most volume transactions by app, this represents that phonepe 
-   is dominating the market with lots of users and */
+   is dominating the market with lots of users */
    
 
 SELECT app_name, SUM(customer_transactions_volume) total_volume_millions
@@ -82,5 +82,6 @@ FROM upi
 
  
  
+
 
 
