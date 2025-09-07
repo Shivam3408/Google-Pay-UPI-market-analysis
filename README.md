@@ -1,4 +1,5 @@
- 📊 Google Pay UPI Market Analysis Dashboard
+ 📊 Google Pay UPI Market Analysis Dashboard 
+ 
 📌 Overview
 
 This project provides an end-to-end data analysis and visualization of UPI transactions from the perspective of Google Pay. Using authentic 2022 data from NPCI, the project leverages SQL for data preparation and Power BI for interactive dashboarding. The goal is to benchmark Google Pay’s performance against competitors and highlight actionable strategies to close the market share gap.
