@@ -46,11 +46,11 @@ Strategic recommendations to boost high-value transactions
 
 🌐 How to Access
 
-Interactive Dashboard: View Live Dashboard
+Interactive Dashboard: [`View Live Dashboard`](
 
 Download File: GooglePay_UPI_2022.pbix
 
-SQL Scripts: SQL Queries
+SQL Scripts:  https://github.com/Shivam3408/Google-Pay-UPI-market-analysis/blob/main/Key%20Insights%20From%20SQL.sql
 
 ✅ Conclusion
 
