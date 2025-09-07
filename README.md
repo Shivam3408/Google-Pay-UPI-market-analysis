@@ -41,7 +41,6 @@ Strategic recommendations to boost high-value transactions
 
 🖼️ Dashboard Preview
 
-
  https://github.com/Shivam3408/Google-Pay-UPI-market-analysis/blob/main/UPI%20dashboard%20snapshot.png
 
 🌐 How to Access
