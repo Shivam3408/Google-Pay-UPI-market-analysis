@@ -45,7 +45,7 @@ Strategic recommendations to boost high-value transactions
 
 🌐 How to Access
 
-Interactive Dashboard: [`View Live Dashboard`](https://github.com/Shivam3408/Google-Pay-UPI-market-analysis/blob/main/UPI%20market%20comparison%20Dashboard.pbix)
+Interactive Dashboard: [`Download to view`](https://github.com/Shivam3408/Google-Pay-UPI-market-analysis/blob/main/UPI%20market%20comparison%20Dashboard.pbix)
 
 SQL Scripts: [`SQL Queries`](https://github.com/Shivam3408/Google-Pay-UPI-market-analysis/blob/main/Key%20Insights%20From%20SQL.sql)
 
